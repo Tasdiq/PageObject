@@ -1,0 +1,8 @@
+07:03:54.065 [main] INFO  resources.base - navigated to homepage
+07:04:04.024 [main] INFO  resources.base - navigated to homepage
+07:04:12.612 [main] INFO  resources.base - navigated to homepage
+07:04:18.166 [main] INFO  resources.base - validated page title
+07:04:18.166 [main] INFO  resources.base - Validated feature courses title
+07:04:18.214 [main] INFO  resources.base - navigation bar displayed
+07:05:52.045 [main] INFO  resources.base - driver initialized
+07:06:01.955 [main] INFO  resources.base - navigated to homepage

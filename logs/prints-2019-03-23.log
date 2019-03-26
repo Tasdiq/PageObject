@@ -1,0 +1,7 @@
+15:14:28.812 [main] INFO  resources.base - navigated to homepage
+15:14:28.881 [main] INFO  resources.base - validated page title
+15:46:11.102 [main] INFO  resources.base - navigated to homepage
+15:46:13.530 [main] INFO  resources.base - clicked on login button link on HomePage
+15:46:15.173 [main] INFO  resources.base - entered credentials and submitted 
+15:46:18.158 [main] INFO  resources.base - navigated to homepage
+15:46:19.354 [main] INFO  resources.base - clicked on login button link on HomePage

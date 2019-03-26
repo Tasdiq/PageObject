@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Academy.Listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test Validate titles(failed)">
+    <classes>
+      <class name="Academy.validateTitle">
+        <methods>
+          <include name="baseNavigate"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Academy.validateTitle -->
+      <class name="Academy.validateNavBar">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Academy.validateNavBar -->
+      <class name="Academy.HomePage">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Academy.HomePage -->
+    </classes>
+  </test> <!-- Test Validate titles(failed) -->
+  <test name="Test validate navigation bar(failed)">
+    <classes>
+      <class name="Academy.validateTitle">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Academy.validateTitle -->
+      <class name="Academy.validateNavBar">
+        <methods>
+          <include name="baseNavigate"/>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Academy.validateNavBar -->
+      <class name="Academy.HomePage">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Academy.HomePage -->
+    </classes>
+  </test> <!-- Test validate navigation bar(failed) -->
+</suite> <!-- Failed suite [Suite] -->

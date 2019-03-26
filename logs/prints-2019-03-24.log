@@ -1,0 +1,7 @@
+05:14:59.481 [main] INFO  resources.base - entered credentials and submitted 
+05:15:04.562 [main] INFO  resources.base - navigated to homepage
+05:15:05.903 [main] INFO  resources.base - clicked on login button link on HomePage
+05:15:07.236 [main] INFO  resources.base - entered credentials and submitted 
+05:15:09.751 [main] INFO  resources.base - driver initialized
+05:15:16.411 [main] INFO  resources.base - navigated to homepage
+05:15:16.490 [main] INFO  resources.base - validated page title

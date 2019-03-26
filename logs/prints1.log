@@ -1,0 +1,4 @@
+06:57:28.043 [main] INFO  resources.base - driver initialized
+06:57:34.922 [main] INFO  resources.base - navigated to homepage
+06:57:35.161 [main] INFO  resources.base - validated page title
+06:57:35.162 [main] INFO  resources.base - Validated feature courses title

@@ -1,0 +1,7 @@
+06:24:18.103 [main] INFO  resources.base - navigated to homepage
+06:24:20.954 [main] INFO  resources.base - clicked on login button link on HomePage
+06:24:23.593 [main] INFO  resources.base - entered credentials and submitted 
+06:24:32.881 [main] INFO  resources.base - navigated to homepage
+06:24:35.063 [main] INFO  resources.base - clicked on login button link on HomePage
+06:24:36.647 [main] INFO  resources.base - entered credentials and submitted 
+06:24:39.164 [main] INFO  resources.base - driver initialized
